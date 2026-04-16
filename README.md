@@ -89,16 +89,16 @@
 
 <div align="center">
   <a href="https://github.com/danielxfloga/GraphicsAPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielxfloga&repo=GraphicsAPP&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/danielxfloga/QuickSave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielxfloga&repo=QuickSave&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/danielxfloga/GiroServerOps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielxfloga&repo=GiroServerOps&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/danielxfloga/SQL_CALCULA_ISN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielxfloga&repo=SQL_CALCULA_ISN&theme=transparent&hide_border=true" />
   </a>
 </div>
 
@@ -107,16 +107,16 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielxfloga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielxfloga&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=danielxfloga&theme=transparent&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielxfloga&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---
